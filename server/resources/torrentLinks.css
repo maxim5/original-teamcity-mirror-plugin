@@ -1,0 +1,24 @@
+.has-torrent {
+  white-space: nowrap;
+}
+
+.tree-torrent-link {
+  float: right;
+  margin-left: 20px;
+
+  opacity: 0.5;
+
+  -webkit-transition: opacity 0.1s linear;
+  -moz-transition: opacity 0.1s linear;
+  -ms-transition: opacity 0.1s linear;
+  -o-transition: opacity 0.1s linear;
+  transition: opacity 0.1s linear;
+}
+
+.tree-torrent-link:hover {
+  opacity: 0.99;
+}
+
+.tree-torrent-icon {
+  vertical-align: text-bottom;
+}
