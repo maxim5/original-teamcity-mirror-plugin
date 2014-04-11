@@ -1,1 +1,3 @@
-Artifacts Mirror / Download Release Page / Artifacts as Torrent plugin
+NOTE: the repo was moved to github:
+https://github.com/JetBrains/teamcity-torrent-plugin
+
